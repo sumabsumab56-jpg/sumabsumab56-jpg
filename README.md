@@ -44,9 +44,11 @@
 ### 🎓 Master of Computer Applications (MCA)
 Sir M. Visvesvaraya Institute of Technology,Bengaluru
 
-### 🎓 Bachelor Degree
-Govt first grade women's College, Tumakuru
+### 🎓 Bachelor Degree[BCA]
+ Govt. first grade women's College, Tumakuru
+
 ---
+
 
 ## 💻 Projects
 
